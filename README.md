@@ -3,7 +3,7 @@ Palantir coding interview question in Java
 
 For additional information regarding this code please visit my blog post at:
 
-T.B.D.
+https://www.johncanessa.com/2020/04/09/contains-close-numbers/
 
 Enjoy;
 
